@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "esm": "^3.2.25",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "dotenv": "^8.0.0",
     "mongoose": "^5.5.11",
     "validator": "^11.0.0"
